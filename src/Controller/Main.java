@@ -14,9 +14,7 @@ import java.util.Observer;
 public class Main implements Observer{
 
     public static void main(String[] args) {
-//        Main main = new Main();
-//        MainWindow mainWindow = new MainWindow(main);
-//        mainWindow.setVisible(true);
+
         Application.launch(MainWindowFX.class);
     }
 
