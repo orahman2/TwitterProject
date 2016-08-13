@@ -16,8 +16,7 @@ public class MainWindowFX extends Application {
     }
     @Override
     public void start(Stage primaryStage) throws Exception {
-        primaryStage.setTitle("Twiiter Client");
-        //test comment
+//        primaryStage.setTitle("Twiiter Client");
         primaryStage.show();
     }
 }
